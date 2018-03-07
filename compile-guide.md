@@ -24,8 +24,7 @@ We recommend compiling using a fresh device.
 
 Start with downloading and installing the necessary dependencies:
 
-* Microsoft Visual Studio 2017 (Link:
-* CMake 3.9.5 (Link:
-* QT 5.8 with MSVC Support 
-* Visual Studio QT Addon 
-* Git CLI
+* Microsoft Visual Studio 2017 (Link: https://www.visualstudio.com/downloads/)
+* CMake 3.9.5 (Link: https://cmake.org/)
+* Boost with MSVC 14.1 Support (Link: https://studiofreya.com/2017/04/23/building-boost-1-64-with-visual-studio-2017/)
+* Git CLI (Link: https://desktop.github.com/)
