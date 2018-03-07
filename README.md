@@ -27,7 +27,7 @@ Download
 --------
 
 Please visit https://github.com/afrihub/AfriCoin/releases contains pre-compiled binaries and also source code to built from source.
-Readme-complie-guide.txt contains, Linux and Windows build instructions.
+compile-guide.md contains, Linux and Windows build instructions.
 
 
 Support
