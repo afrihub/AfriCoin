@@ -20,4 +20,12 @@ Now, we need to run cmake and make and the source files will start to build, onc
 
 
 # Windows (Used windows server 2012)
+We recommend compiling using a fresh device.
 
+Start with downloading and installing the necessary dependencies:
+
+* Microsoft Visual Studio 2017 (Link:
+* CMake 3.9.5 (Link:
+* QT 5.8 with MSVC Support 
+* Visual Studio QT Addon 
+* Git CLI
