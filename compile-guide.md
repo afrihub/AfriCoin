@@ -5,12 +5,12 @@ Start with updating and upgrading the current operating system
 `sudo apt-get update; sudo apt-get upgrade`
 
 
-Then start installing the necessary dependencies need to compile the code.
+Then start installing the necessary dependencies needed to compile the code.
 
 `sudo apt-get install libboost-all-dev cmake make g++ gcc git`
 
 
-Now, download the repo so we can start to build the source and entering the correct directory to build the files too.
+Now, download the repo (AfriCoin) so we can start too build the source and also entering the correct directory to build the files too.
 
 `git clone https://github.com/afrihub/AfriCoin.git; cd AfriCoin; mkdir build; cd build`
 
