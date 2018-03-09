@@ -21,6 +21,8 @@ AfriCoin (AFR) is a decentralised open source digital currency for Africa.
   
   RPC Port: 41661
   
+  Backed Network of about 12 nodes. 
+  
 
 
 Download
