@@ -28,7 +28,7 @@ AfriCoin (AFR) is a decentralised open source digital currency for Africa.
 Download
 --------
 
-Please visit https://github.com/afrihub/AfriCoin/releases contains pre-compiled binaries and also source code to built from source.
+Please visit https://github.com/afrihub/AfriCoin/releases contains pre-compiled binaries and also source code to be built from source.
 compile-guide.md contains, Linux and Windows build instructions.
 
 
